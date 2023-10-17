@@ -138,5 +138,15 @@
     "difficulty" : "beginner",
     "module_number" : 11,
     "certification" : "paid"
+  },
+  {
+    "id" :  18,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Java Develepment",
+    "link" : "https://www.udemy.com/course/make-10-advanced-pro-games-in-python/",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "paid"
   }
 ]
